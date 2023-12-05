@@ -1,0 +1,7 @@
+com\example\rielec\controller\TaskController.class
+com\example\rielec\domain\TaskState.class
+com\example\rielec\RielecApplication.class
+com\example\rielec\service\TaskService.class
+com\example\rielec\domain\Task.class
+com\example\rielec\cron\TaskCron.class
+com\example\rielec\repository\TaskRepository.class
